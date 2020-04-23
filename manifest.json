@@ -1,0 +1,8 @@
+{
+"domain": "covid19",
+"name": "Coronavirus (COVID-19)",
+"documentation": "https://www.example.com",
+"dependencies": [],
+"codeowners": ["exlab247@gmail.com"],
+"requirements": []
+}
